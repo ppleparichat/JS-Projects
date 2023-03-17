@@ -17,3 +17,5 @@ https://ppleparichat.github.io/JS-Projects/pageScroll-indicator/
 https://ppleparichat.github.io/JS-Projects/scrollToTop/
 
 https://ppleparichat.github.io/JS-Projects/vowelsCounting/
+
+https://ppleparichat.github.io/JS-Projects/passwordVisibility/
