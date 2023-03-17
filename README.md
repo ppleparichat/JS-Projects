@@ -20,4 +20,4 @@ https://ppleparichat.github.io/JS-Projects/modalPopup/
 
 https://ppleparichat.github.io/JS-Projects/passwordVisibility/
 
-https://ppleparichat.github.io/JS-Projects/galleryPopup/
+https://ppleparichat.github.io/JS-Projects/gallery-Popup/
