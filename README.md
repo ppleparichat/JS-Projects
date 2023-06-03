@@ -28,6 +28,8 @@ https://ppleparichat.github.io/JS-Projects/countdown/
 
 https://ppleparichat.github.io/JS-Projects/mysnows/
 
+https://ppleparichat.github.io/JS-Projects/MultiplicationTable/
+
 
 Feel free to explore the repository and dive into the individual projects to learn more about them.
 
