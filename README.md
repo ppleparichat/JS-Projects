@@ -24,6 +24,10 @@ https://ppleparichat.github.io/JS-Projects/passwordVisibility/
 
 https://ppleparichat.github.io/JS-Projects/gallery-Popup/
 
+https://ppleparichat.github.io/JS-Projects/countdown/
+
+https://ppleparichat.github.io/JS-Projects/mysnows/
+
 
 Feel free to explore the repository and dive into the individual projects to learn more about them.
 
