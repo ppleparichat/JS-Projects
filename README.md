@@ -30,6 +30,8 @@ https://ppleparichat.github.io/JS-Projects/mysnows/
 
 https://ppleparichat.github.io/JS-Projects/MultiplicationTable/
 
+https://ppleparichat.github.io/JS-Projects/random-notification/
+
 
 Feel free to explore the repository and dive into the individual projects to learn more about them.
 
